@@ -159,7 +159,7 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder project Thumbs.dbsettings
 .spyderproject
 .spyproject
 
@@ -179,6 +179,7 @@ dmypy.json
 
 # pytype static type analyzer
 .pytype/
+
 
 # Cython debug symbols
 cython_debug/
@@ -218,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+.DS_Store
+Thumbs.db
