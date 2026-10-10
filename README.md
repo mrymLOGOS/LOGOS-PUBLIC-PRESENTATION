@@ -39,3 +39,18 @@ Certificate included in this repository.
 
 ## Contact
 برای همکاری، سرمایه‌گذاری یا دسترسی سازمانی، با بنیان‌گذار تماس بگیرید.
+## Autonomous Systems — Crisis & Awareness Layer
+
+Modern autonomous systems collapse multi‑state ambiguity into single predictions.
+This removes the internal structure of crisis evolution and destabilizes
+decision pathways in complex environments.
+
+Research in awareness‑centric architectures shows that autonomous systems
+require a layer capable of:
+• preserving simultaneous states  
+• maintaining entangled decision pathways  
+• interpreting crisis evolution  
+• stabilizing ambiguity before it propagates  
+
+This repository includes conceptual briefs intended for executive‑level review
+in autonomous R&D.
